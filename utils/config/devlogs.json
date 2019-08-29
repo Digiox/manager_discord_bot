@@ -1,0 +1,8 @@
+{
+    "devlogsConfig": {
+        "msgDelete": true,
+        "restrictChannel": false,
+        "timeBeforeMessageIsDeleted": 10000,
+        "restrictedChannelId": "615859932549480459"
+    }
+}

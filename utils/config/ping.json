@@ -1,0 +1,8 @@
+{
+    "pingConfig": {
+        "game": "rust",
+        "hostIP": "151.80.98.196",
+        "hostPort": "28231",
+        "command": "ping"
+    }
+}
