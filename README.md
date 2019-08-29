@@ -16,7 +16,11 @@ https://discordapp.com/oauth2/authorize?&client_id={id/12&scope=bot&permissions=
 * Click on Enter
 * Select the Discord server, then click Allow.
 * Now clone the repository, run "bot.js" with the node, nodemon, etc.
-* you can configure some parameters in the menu util> config, but before that, read the characteristics of the bot.
+* you need to make a .env file and name and include this line with your own bot token (how to do it: https://www.npmjs.com/package/dotenv)
+> SECRET_TOKEN= YourBotToken
+
+
+* you can configure some parameters in the menu util> config, but before that, read the bot features.
 
 
 ### Bot Features
@@ -70,3 +74,12 @@ you will find the following configuration
 ## This is not the end
 
 I will work on the bot to add more features, but you can subit your request if you have some ideas for new features
+
+
+### modules used
+
+* Discord.js
+* dotenv
+* gamedig
+
+
