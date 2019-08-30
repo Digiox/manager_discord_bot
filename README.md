@@ -12,7 +12,7 @@
 * Give a name to your new bot
 * now go back to the "General Information" section
 * Now open a new tab and go to the following link, but first change {id} in your app ID
-https://discordapp.com/oauth2/authorize?&client_id={id/12&scope=bot&permissions=8
+https://discordapp.com/oauth2/authorize?&client_id={id}&scope=bot&permissions=8
 * Click on Enter
 * Select the Discord server, then click Allow.
 * Now clone the repository, run "bot.js" with the node, nodemon, etc.
